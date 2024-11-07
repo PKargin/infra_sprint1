@@ -1,0 +1,5 @@
+IP: 130.193.42.199;
+name_taski: https://philandpp.ddns.net;
+name_kittygram: https://kittygram-nophp.zapto.org;
+login: yc-user;
+password: Sherl000Sherl000;
